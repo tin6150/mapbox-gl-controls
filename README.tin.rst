@@ -17,3 +17,17 @@ created some changes
 	modified:   package.json
 
 let's see if these check in get my version of index_styles.html to work...
+
+
+*sigh* how deep does the rabbit holes go?
+and this was supposed to be simple example for people to learn from??!!
+
+modified docs.js
+commented out js that i didn't care
+webpack generated new bundle.js
+but then it still look for exampleLocalization
+
+how deeply nested/interdependent are these examples?
+
+seeking help, let's see...
+https://github.com/bravecow/mapbox-gl-controls/issues/3
